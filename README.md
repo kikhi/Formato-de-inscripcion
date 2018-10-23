@@ -4,4 +4,4 @@ Trabajo de programacion PFLC - Materia elabora programas administrativos con pro
 ## Caracteristicas
 Este programa permite elaborar el registro para una institucion de manera facil y ordenada.
 
-![](Capture.png)
+![](Capture.PNG)
