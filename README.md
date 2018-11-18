@@ -1,7 +1,11 @@
 # Formato-de-inscripcion
-Trabajo de programacion PFLC - Materia elabora programas administrativos con programacion
+Ejercicio de programacion 
 
-## Caracteristicas
-Este programa permite elaborar el registro para una institucion de manera facil y ordenada.
+Materia - Elabora programas administrativos con programación (PFLC)
+
+## Notas
+Realizado con c#
+No es responsivo
+Funciones muy básicas
 
 ![](Capture.PNG)
