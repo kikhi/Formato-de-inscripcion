@@ -4,10 +4,10 @@ Ejercicio de programacion
 Materia - Elabora programas administrativos con programación (PFLC)
 
 ## Notas
-Realizado con c#
+-Realizado con c#
 
-No es responsivo
+-No es responsivo
 
-Funciones muy básicas
+-Funciones muy básicas
 
 ![](Capture.PNG)
